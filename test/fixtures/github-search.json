@@ -1,0 +1,73 @@
+{
+  "total_count": 4655,
+  "items": [
+    {
+      "html_url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4107",
+      "title": "[Bounty] USDC-quoted pairs not having the correct marketcap displayed in tools",
+      "number": 4107,
+      "labels": [
+        {
+          "name": "bounty",
+          "description": null
+        },
+        {
+          "name": "real",
+          "description": null
+        }
+      ],
+      "state": "open",
+      "created_at": "2026-10-23T20:20:52Z",
+      "updated_at": "2026-10-23T20:55:54Z",
+      "body": "### \u8d4f\u91d1\u5e73\u53f0 / Platform\nGitHub\n\n### \u539f\u59cb\u94fe\u63a5 / Source URL\nhttps://github.com/blake-guthrie/GLASS/issues/1\n\n### \u6f0f\u6d1e\u63cf\u8ff0 / Description\nUSDC-quoted pairs not having the correct marketcap displayed in tools\n\nFix this problem to get paid in fees of $100\n\n### \u79ef\u5206\u5e01\u5956\u52b1 / Coin Reward\n125 coins\n\n### \u771f\u5b9e\u8d4f\u91d1\uff08USD\uff09/ Real Reward\n$100\n\n### \u96be\u5ea6 / Difficulty\nMedium\n\n### \u8ba4\u9886\u65b9\u5f0f\n\u8bc4\u8bba `/claim` \u9501\u5b9a\u4efb\u52a1 24h\n\n### \u5151\u6362\u8bf4\u660e\n> \u67e5\u770b [REWARD_POLICY.md](R",
+      "repository_url": "https://api.github.com/repos/zhangjiayang6835-cyber/bounty-plaza"
+    },
+    {
+      "html_url": "https://github.com/blake-guthrie/GLASS/issues/1",
+      "title": "USDC-quoted pairs not having the correct marketcap displayed in tools",
+      "number": 1,
+      "labels": [
+        {
+          "name": "bounty",
+          "description": ""
+        }
+      ],
+      "state": "open",
+      "created_at": "2026-10-23T19:03:20Z",
+      "updated_at": "2026-10-24T04:47:43Z",
+      "body": "Fix this problem to get paid in fees of $100",
+      "repository_url": "https://api.github.com/repos/blake-guthrie/GLASS"
+    },
+    {
+      "html_url": "https://github.com/XHToken/Spark-X2.6/issues/16",
+      "title": "HER Hack-Astron #7 | Spark-X2.6 Open Source AI for Good Challenge\uff5c\u516c\u76ca\u5e94\u7528\u573a\u666f\u6311\u6218\u8d5b",
+      "number": 16,
+      "labels": [
+        {
+          "name": "good first issue",
+          "description": "Good for newcomers"
+        },
+        {
+          "name": "help wanted",
+          "description": "Extra attention is needed"
+        },
+        {
+          "name": "HER Hack-Astron",
+          "description": "HER Hack-Astron \u5973\u6027\u5f00\u53d1\u8005\u5f00\u6e90\u6311\u6218\u8ba1\u5212"
+        },
+        {
+          "name": "reward",
+          "description": "\u5e26\u73b0\u91d1/\u5b9e\u7269\u5956\u52b1\u7684\u4efb\u52a1"
+        },
+        {
+          "name": "bounty",
+          "description": "\u5e26\u516c\u5f00\u5956\u52b1\u7684\u60ac\u8d4f\u6d3b\u52a8"
+        }
+      ],
+      "state": "open",
+      "created_at": "2026-10-23T03:43:51Z",
+      "updated_at": "2026-10-23T21:27:33Z",
+      "body": "# HER Hack-Astron # 7 | Spark-X2.6 Open Source AI for Good Challenge\r\n\r\nBuild something useful for people who need it. This round invites you to use **Spark-X2.6-4B** to create a working application for disaster response, health, accessibility, gender equality, or another public-interest need.\r\n\r\n**Go to [Spark-X2.6-4B on Hugging Face](https://huggingface.co/XHToken/Spark-X2.6-4B), give the model ",
+      "repository_url": "https://api.github.com/repos/XHToken/Spark-X2.6"
+    }
+  ]
+}
