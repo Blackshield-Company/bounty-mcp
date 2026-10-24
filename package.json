@@ -40,5 +40,13 @@
     "@types/node": "^18.19.0",
     "typescript": "^5.4.0",
     "vitest": "^3.2.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/synthalorian/bounty-mcp.git"
+  },
+  "homepage": "https://github.com/synthalorian/bounty-mcp#readme",
+  "bugs": {
+    "url": "https://github.com/synthalorian/bounty-mcp/issues"
   }
 }
