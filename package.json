@@ -43,10 +43,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/synthalorian/bounty-mcp.git"
+    "url": "git+https://github.com/Blackshield-Company/bounty-mcp.git"
   },
-  "homepage": "https://github.com/synthalorian/bounty-mcp#readme",
+  "homepage": "https://github.com/Blackshield-Company/bounty-mcp#readme",
   "bugs": {
-    "url": "https://github.com/synthalorian/bounty-mcp/issues"
+    "url": "https://github.com/Blackshield-Company/bounty-mcp/issues"
   }
 }
